@@ -33,11 +33,11 @@ n' be amazed by how far we've come."<br>
 <br/>
 
 <p align="left">
-<code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"></code>
-<code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-plain.svg"></code>
-<code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></code>
-<code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></code>
-<code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-plain.svg"></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"></code>
 <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"></code>
 <code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"></code>
@@ -46,7 +46,10 @@ n' be amazed by how far we've come."<br>
 </p>
 
 <br>
-<br />
+<br>
+<br/>
+<br/>
+<br/>
 <h1 align="center">
   ‎ ‎ ‎ ‎ ‎ ‎  
 </h1>
