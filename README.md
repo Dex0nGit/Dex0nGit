@@ -32,29 +32,24 @@ n' be amazed by how far we've come."<br>
 
 <br/>
 
-<p align="left">
-<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"></code>
-<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-plain.svg"></code>
-<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></code>
-<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></code>
-<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"></code>
+<p align="center">
+<code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"></code>
+<code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-plain.svg"></code>
+<code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></code>
+<code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></code>
+<code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"></code>
+</p>
+<br>
+<p align="center">
 <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"></code>
 <code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"></code>
 <code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"></code>
-<img align="right" width="195px" height="195px" src="https://cdn.stickers.gg/stickers/3096-paimon-shook.png">
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"></code>
 </p>
+<img align="right" width="350px" height="350px" src="https://cdn.stickers.gg/stickers/3096-paimon-shook.png">
 
-<br>
-<br>
-<br/>
-<br/>
-<br/>
-<h1 align="center">
-  ‎ ‎ ‎ ‎ ‎ ‎  
-</h1>
-
-   <h1 align="center">
+<!--<h1 align="center">
    Lets talk??
    </h1>
 <p align="center"> 
@@ -84,4 +79,4 @@ n' be amazed by how far we've come."<br>
   <a href="https://github.com/sponsors/Dex0nGit"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
-</div>
+</div>-->
