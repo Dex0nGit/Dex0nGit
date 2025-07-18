@@ -32,43 +32,21 @@ n' be amazed by how far we've come."<br>
 
 <br/>
 
-<p align="center">
+<p align="left">
 <code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"></code>
 <code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-plain.svg"></code>
 <code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></code>
 <code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></code>
 <code><img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"></code>
-
-<p align="center">
 <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"></code>
 <code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"></code>
 <code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"></code>
-</p>
-
-<!--<h2 align="center">
-  Git status
-</h2>
-<br>
-<br>
-
-<p align="center">
-<a href="https://github.com/Dex0nGit">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dex0nGit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>-->
-<p>
 <img align="right" width="195px" height="195px" src="https://cdn.stickers.gg/stickers/3096-paimon-shook.png">
 </p>
+
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br />
 <h1 align="center">
   ‎ ‎ ‎ ‎ ‎ ‎  
 </h1>
