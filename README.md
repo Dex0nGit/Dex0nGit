@@ -1,3 +1,7 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
   Sup &lt;y'all/&gt;!
@@ -20,7 +24,7 @@
 <br/>
 
 <h2 align="center">
-  Langs n' tools  
+  Langs n' tools  <img aligth="right" width="50px" heigth="50px" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
 </h2> 
 
 <br/>
@@ -40,9 +44,19 @@
 </p>
 <br>
 
+<!--<h2 align="center">
+  Git status
+</h2>
+<br>
+<br>
+
 <p align="center">
-<img width="500px" height="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex0nGit&layout=compact&theme=dark&bg_color=0A0A0A" alt="dex Top Languages"/>
-</p>
+<a href="https://github.com/Dex0nGit">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dex0nGit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>-->
+
 
 <br>
 <h2 align="center">
