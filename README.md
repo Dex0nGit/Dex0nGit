@@ -1,17 +1,12 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  Sup &lt;y'all/&gt;!
+  Be welcome &lt;devs/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
-
-<br/>
-<br/>
-
-<p align="center">
+<h2 align="center">
 - Hey, i'm dex, just 21 y.o straight from Brasil<br>
 - They/Them<br>
 - Fallin' in luv with Nix-lang, Rust n' Python<br>
@@ -21,14 +16,10 @@
 <br>
 "One day we'll look back at where we started<br>
 n' be amazed by how far we've come."<br>
-</p>
-
-<br/>
-<br/>
-
-<h2 align="center">
-<img aligth="right" width="50px" heigth="50px" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">  Langs n' tools  <img aligth="right" width="50px" heigth="50px" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
-</h2> 
+</h2>
+<h1 align="center">
+<img aligth="right" width="60px" heigth="60px" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">  Langs n' tools  <img aligth="right" width="60px" heigth="60px" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
+</h1> 
 
 <br/>
 
